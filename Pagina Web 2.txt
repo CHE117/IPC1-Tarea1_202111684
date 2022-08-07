@@ -1,0 +1,71 @@
+<html>
+
+<head>
+<title> JOSE MARIO ROSALES ARGUETA 202111684 </title>
+</head>
+
+<body>
+<img src="code.jpg">
+<h1>JOSE MARIO ROSALES ARGUETA 202111684</h1>
+<table style="width: 100%" border="1" >
+<tr>
+
+<th>
+   Curso
+</th>
+
+<th>
+   Semestre
+</th>
+
+<th>
+   Información
+</th>
+</tr>
+
+<tbody align="center">
+<tr>
+<td>Logica de Sistemas </td>
+<td>Tercer Semestre </td>
+<td>Este curso forma parte del área Metodología de Sistemas, en el pensum de estudios de la carrera de Ingeniería en Ciencias y Sistemas.  Su intención es introducir al estudiante en la comprensión del «pensamiento» analizando este como sub-sistema básico del sistema humano.  </td>
+</tr>
+
+<tr>
+<td>Introduccion a la programación </td>
+<td>Tercer Semestre </td>
+<td>El curso busca ser el acercamiento inicial del estudiante de la carrera de sistemas, al mundo de
+Desarrollo de Software mediante el uso de métodos, técnicas y metodologías especializadas. Se
+fundamenta en el concepto de algoritmo para la resolución de problemas de programación utilizando
+computadoras, enfatizando el uso del paradigma de Programación Orientado a Objetos.  </td>
+</tr>
+
+<tr>
+<td>Fisica 1 </td>
+<td>Tercer Semestre </td>
+<td>El curso de Física Uno amplía el panorama que cubren los conceptos de mecánica clásica
+adquiridos en el curso de Física Básica. Se aplican y amplían en situaciones relacionadas
+con cinemática y dinámica de la rotación, estática de cuerpo rígido, estática y en la dinámica
+de los fluidos.  </td>
+</tr>
+
+<tr>
+<td>Matematica Intermedia 1 </td>
+<td>Tercer Semestre </td>
+<td>En este curso se desarrollan diversos temas de matemática que complementan los conocimientos adquiridos en los dos cursos anteriores.  Entre los temas que aquí se desarrollan están las técnicas de integración, se presentan otras aplicaciones de la integral, se desarrolla el tema de coordenadas polares, se desarrolla el tema de sucesiones y series y se finaliza con una introducción al estudio del espacio tridimensional.  </td>
+</tr>
+
+<tr>
+<td>Matematica Para Computación 1 </td>
+<td>Tercer Semestre </td>
+<td>Que el estudiante reconozca, formule, manipule y aplique los conceptos,
+definiciones, teoremas, procedimientos y técnicas de la matemática discreta como
+una base que le permitirá desarrollar una comprensión significativa de la tecnología
+de información y comunicación; en particular, en las áreas de combinatoria, lógica,
+conjuntos y especialmente, el álgebra de Boole.   </td>
+</tr>
+
+
+
+</body>
+
+</html>
